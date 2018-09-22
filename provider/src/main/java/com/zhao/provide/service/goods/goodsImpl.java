@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 public class goodsImpl implements GoodsService {
     public Goods selectGoods() {
         Goods goods=new Goods();
-        goods.setName("dasda666666");
+        goods.setName("dasda666666777777");
         goods.setPrice("1234567");
         return goods;
     }
