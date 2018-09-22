@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: provider
+  dubbo:
+    server: true
+    registry: zookeeper://127.0.0.1:2181
